@@ -42,7 +42,7 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 ---
 
 ## 📫 Contact Me
-- 🔗 LinkedIn: [LinkedIn Profile](linkedin.com/in/axlerheyolimpo)
+- 🔗 LinkedIn: [Axle Rhey Olimpo](linkedin.com/in/axlerheyolimpo)
 - 📧 Email: olimpoaxle2007@gmail.com
 
 ---
