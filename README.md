@@ -28,6 +28,7 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 ### 💻 Programming
 - Java
 - JavaScript
+- Python
 
 ### 🗄️ Databases
 - IBM DB2 Cloud
@@ -35,8 +36,10 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 ### 🧰 Tools
 - Lucidchart  
 - Jaspersoft Studio  
-- Eclipse  
-- HTML  
+- Eclipse / IntelliJ
+- PyCharm
+- HTML
+- Figma
 
 ---
 
