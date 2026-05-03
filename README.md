@@ -19,8 +19,6 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E78B03041FECC15403E61EB733B5ACF33CF9C3AA6A4644023A64FEF4F7BBAF0)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/bb916145bfb249a0a170802b275939a7)
 
-> *(Replace the links above with your actual certification URLs if available.)*
-
 ---
 
 ## 🛠️ Skill Sets
