@@ -18,6 +18,7 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 - [Oracle Cloud Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CDC5A4022AFBC08AA864A476C90A571769BB62BBF4D208D7A6560E0B63F1111C)
 - [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2E78B03041FECC15403E61EB733B5ACF33CF9C3AA6A4644023A64FEF4F7BBAF0)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/bb916145bfb249a0a170802b275939a7)
+- [Sololearn Data Analytics with AI](https://www.sololearn.com/certificates/CC-7FS62XVN)
 
 ---
 
@@ -38,6 +39,8 @@ I enjoy tackling complex problems and crafting elegant solutions. My journey in 
 - PyCharm
 - HTML
 - Figma
+- Pentaho
+- MongoDB
 
 ---
 
